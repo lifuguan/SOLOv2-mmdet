@@ -8,10 +8,9 @@
 -->
 # SOLOv2 : mmdetection(2.19.0) implementation
 
-This project hosts the code for implementing the SOLOv2 algorithms based on the [**official project**](https://github.com/WXinlong/SOLO). Due to the inheritance designation, it enables developers as well as researchers to integrate into our projects more easily and elegantly.
+This project hosts the code for implementing the SOLOv2 algorithms based on the [**official project**](https://github.com/WXinlong/SOLO). Due to the inheritance designation, it enables developers as well as researchers to integrate into their projects more easily and elegantly.
 
-该SOLOv2项目是基于[**官方项目**](https://github.com/WXinlong/SOLO)并在 **mmdetection(2.19.0)** 上实现的。由于采用继承手段，这允许大家更加高效地集成到自己的项目中或者进行调试。
-
+该SOLOv2项目是基于[**官方项目**](https://github.com/WXinlong/SOLO)并在 **mmdetection(2.19.0)** 上实现的。由于采用继承设计，它使得开发人员和研究人员能够更轻松，更优雅地集成到自己的项目中。
 > [**SOLOv2: Dynamic and Fast Instance Segmentation**](https://arxiv.org/abs/2003.10152),            
 > Xinlong Wang, Rufeng Zhang, Tao Kong, Lei Li, Chunhua Shen     
 > In: Proc. Advances in Neural Information Processing Systems (NeurIPS), 2020  
